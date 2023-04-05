@@ -3,9 +3,9 @@
 			width:800px;
 			height:800px;
 
-			border:2px solid black;
+			
 			display:grid;
-			margin-left:25%;
+			margin-left:23%;
 		}
 		body{
 			background-color: #ffc080;
